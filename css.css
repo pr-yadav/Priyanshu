@@ -1,0 +1,39 @@
+body{
+	background: rgb(0,0,0);
+	background: url("assets/div1.jpg");
+	background-repeat: no-repeat;	
+	background-size: 1500px 1200px;
+}
+
+#header{
+	height: 400px;
+	background-color: rgba(11, 20, 189,0.3);
+	text-align: center;
+}
+#text{
+	color: white;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 30px;
+	padding-top: 30px;
+	text-align: center;
+}
+#content{
+	color: white;
+	font-size: 20px;
+}
+#back{
+	background-color: rgba(0,0,0,0.5);
+	font-size: 20px;
+	padding-top: 30px;
+	text-align: center;
+	color: white;
+}
+#count{
+	color:white;
+	font-size: 15px;
+}
+#dp{
+	height:150px;
+	width: 150px;
+	border-radius: 50%;
+}
